@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"appLauncher"},{"l":"database"},{"l":"guis"}];updateSearchResults();
